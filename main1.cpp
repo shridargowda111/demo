@@ -15,7 +15,7 @@ int main(int argc, char* argv[])
 {
 	std::vector<std::string> v(10);
 	v[0]="Pari";
-	v[1]="London";
+	v[1]="Londo";
 	v[2]="Stockholm";
 	v[3]="Berlin";
 	v[4]="Oslo";
