@@ -17,7 +17,7 @@ int main(int argc, char* argv[])
 	v[0]="Pari";
 	v[1]="London";
 	v[2]="Stockholm";
-	v[3]="Berlin";
+	v[3]="Berl";
 	v[4]="Oslo";
 	v[5]="Rome";
 	v[6]="Madrid";
